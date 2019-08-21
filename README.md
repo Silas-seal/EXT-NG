@@ -1,2 +1,2 @@
 # EXT-NG
-Nigerian Client Application
+Nigerian Currency Client Application.
